@@ -1,3 +1,4 @@
+
 Reading symbols from a.out...(no debugging symbols found)...done.
 (gdb) r
 Starting program: /home/runner/Test3Session1/a.out 
