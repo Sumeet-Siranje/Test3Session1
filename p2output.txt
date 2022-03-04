@@ -1,1 +1,15 @@
+Reading symbols from a.out...(no debugging symbols found)...done.
+(gdb) r
+Starting program: /home/runner/Test3Session1/a.out 
+warning: Error disabling address space randomization: Operation not permitted
+enter the numerator and denomenator of the fraction
+1
+4
+enter the numerator and denomenator of the fraction
+1
+2
+enter the numerator and denomenator of the fraction
+1 
+2
+1/2 is greatest fraction of all[Inferior 1 (process 1152) exited normally]
 

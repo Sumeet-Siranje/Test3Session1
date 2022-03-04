@@ -1,1 +1,8 @@
-
+Starting program: /home/runner/Test3Session1/a.out 
+warning: Error disabling address space randomization: Operation not permitted
+enter the numerator and denomenator of 1st fraction
+1 2
+enter the numerator and denomenator of 2nd fraction
+1 4
+1/2 + 1/4 is 3/4 
+[Inferior 1 (process 191) exited normally]
